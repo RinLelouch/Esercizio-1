@@ -18,6 +18,8 @@ public class Main {
         System.out.println(nameInitial);
         System.out.println(surnameInitial);
         System.out.println("My full name initial are = " + fullNameInitial);
+        HO USATO IL VALUEOF, PER 'VEDERNE' UNA APPLICAZIONE, E' CORRETTA?
+       
         // Write your code here
     }
 
